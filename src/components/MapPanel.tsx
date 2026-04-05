@@ -11,7 +11,6 @@ import { Tooltip } from "antd";
 import {
   EnvironmentOutlined,
   AimOutlined,
-  ThunderboltOutlined,
 } from "@ant-design/icons";
 import L from "leaflet";
 import ReactDOMServer from "react-dom/server";

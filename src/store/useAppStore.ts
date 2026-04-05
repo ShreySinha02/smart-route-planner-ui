@@ -30,7 +30,7 @@ interface AppState {
   clearMessages: () => void
 
   mapData: MapData | null
-  setMapData: (data: MapData) => void
+  setMapData: (data: MapData|null) => void
 
   userLocation: Location | null
   setUserLocation: (location: Location) => void
